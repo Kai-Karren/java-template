@@ -1,4 +1,9 @@
 build/
-.git
-.idea
-.gradle
+.gradle/
+
+# JetBrains IDE
+.idea/
+
+*.class
+*.log
+*.jar
